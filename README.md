@@ -3,8 +3,8 @@
 
 There is no data in the folder **dataset**.
 If you want to run this code, you need manually put the csv files into the dataset folder.
+
 ### Train
-\sh sh/train.sh
+`sh sh/train.sh`
 ### Test
-Code
-\sh sh/train.sh
+`sh sh/train.sh`
